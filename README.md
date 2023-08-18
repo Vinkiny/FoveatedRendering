@@ -6,6 +6,8 @@ Language: OpenXR, c++, GLSL, OpenGL.
 VR headset: vive pro.
 VR platform: steamVR.
 
+The OpenXR DSK Source file is also required to run the program.
+
 Reference:
 OpenXR DSK Source
 https://github.com/KhronosGroup/OpenXR-SDK-Source/
